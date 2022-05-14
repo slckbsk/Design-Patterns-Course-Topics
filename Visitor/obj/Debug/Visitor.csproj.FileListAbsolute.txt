@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Visitor\obj\Debug\Visitor.pdb

@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

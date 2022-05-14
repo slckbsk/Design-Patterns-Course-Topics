@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Singleton\obj\Debug\Singleton.pdb

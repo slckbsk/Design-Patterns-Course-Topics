@@ -1,0 +1,11 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\DependencyInjection\bin\Debug\Ninject.dll
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\DependencyInjection\bin\Debug\Ninject.xml
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CopyComplete

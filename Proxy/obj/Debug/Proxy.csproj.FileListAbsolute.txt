@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Proxy\obj\Debug\Proxy.pdb

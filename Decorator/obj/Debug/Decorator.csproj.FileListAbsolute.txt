@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Decorator\obj\Debug\Decorator.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Decorator\obj\Debug\Decorator.pdb

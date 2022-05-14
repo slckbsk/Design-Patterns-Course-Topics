@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\NullObject\bin\Debug\NullObject.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\NullObject\bin\Debug\NullObject.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\NullObject\bin\Debug\NullObject.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\NullObject\obj\Debug\NullObject.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\NullObject\obj\Debug\NullObject.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\NullObject\obj\Debug\NullObject.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\NullObject\obj\Debug\NullObject.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\NullObject\obj\Debug\NullObject.pdb

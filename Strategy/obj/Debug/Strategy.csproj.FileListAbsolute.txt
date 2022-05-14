@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Strategy\obj\Debug\Strategy.pdb

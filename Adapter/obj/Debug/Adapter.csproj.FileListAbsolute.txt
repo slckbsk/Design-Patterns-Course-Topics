@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Adapter\obj\Debug\Adapter.pdb

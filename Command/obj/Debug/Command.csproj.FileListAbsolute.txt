@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Command\obj\Debug\Command.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Command\obj\Debug\Command.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Command\bin\Debug\Command.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Command\bin\Debug\Command.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Command\bin\Debug\Command.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Command\obj\Debug\Command.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Command\obj\Debug\Command.pdb

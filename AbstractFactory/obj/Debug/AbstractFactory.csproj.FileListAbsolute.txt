@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

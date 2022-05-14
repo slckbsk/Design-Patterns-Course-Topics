@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

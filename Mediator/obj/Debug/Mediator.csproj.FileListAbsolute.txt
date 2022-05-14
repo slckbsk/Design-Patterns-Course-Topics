@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Mediator\obj\Debug\Mediator.pdb

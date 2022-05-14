@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Multiton\bin\Debug\Multiton.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Multiton\bin\Debug\Multiton.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Multiton\bin\Debug\Multiton.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Multiton\obj\Debug\Multiton.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Multiton\obj\Debug\Multiton.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Multiton\obj\Debug\Multiton.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Multiton\obj\Debug\Multiton.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Multiton\obj\Debug\Multiton.pdb

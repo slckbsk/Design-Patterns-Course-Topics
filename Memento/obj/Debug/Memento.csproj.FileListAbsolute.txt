@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Memento\bin\Debug\Memento.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Memento\bin\Debug\Memento.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Memento\bin\Debug\Memento.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Memento\obj\Debug\Memento.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Memento\obj\Debug\Memento.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\Memento\obj\Debug\Memento.pdb

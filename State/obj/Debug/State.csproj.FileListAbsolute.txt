@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\State\bin\Debug\State.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\State\bin\Debug\State.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\State\bin\Debug\State.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\State\obj\Debug\State.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\State\obj\Debug\State.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\State\obj\Debug\State.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\State\obj\Debug\State.pdb

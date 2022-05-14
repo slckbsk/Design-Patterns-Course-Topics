@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\VisualRepo\repos\BTKAkademi\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb
